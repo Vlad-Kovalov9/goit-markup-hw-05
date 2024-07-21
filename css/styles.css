@@ -630,6 +630,10 @@ margin-left: auto;
    margin-bottom: 24px;
  }
 
+ .modal-field-comment {
+   margin-bottom: 16px;
+ }
+
  .modal-input {
    width: 100%;
    border: 1px solid rgb(46, 47, 66, 0.4);
@@ -704,7 +708,7 @@ margin-left: auto;
    letter-spacing: 0.04em;
    color: #8E8F99;
    align-items: center;
-   /* padding-bottom: 24px; */
+
  }
 
  .modal-check-text span {
