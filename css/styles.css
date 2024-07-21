@@ -724,7 +724,7 @@ margin-left: auto;
  .modal-check:checked + label span {
    background-color: #404BBF;
    border: none;
-   fill: #ffffff;
+   fill: #F4F4FD;
  }
 
  .modal-send-btn {
@@ -762,6 +762,7 @@ margin-left: auto;
    align-items: center;
    justify-content: center;
    fill: transparent;
+   margin-bottom: 8px;
 }
 
 .policy {
